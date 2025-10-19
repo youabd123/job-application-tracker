@@ -103,6 +103,8 @@
             }
 
         }
+        // Feature 2: validation test
+
     }
-    }
+}
 
