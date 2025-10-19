@@ -4,6 +4,15 @@
     {
         static void Main(string[] args)
         {
+            static void Main(string[] args)
+            {
+                Console.WriteLine("Job Application Tracker (G-version)");
+                Console.WriteLine("------------------------------------");
+                Console.WriteLine();
+
+                // Resten av din meny…
+            }
+
             JobManager manager = new JobManager();
             bool running = true;
 
@@ -103,6 +112,7 @@
             }
 
         }
+        // feature menu test
     }
     }
 
